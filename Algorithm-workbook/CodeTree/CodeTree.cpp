@@ -2,7 +2,7 @@
 
 int main()
 {
-    L01_Example09 example;
+    L02_Example01 example;
     
     return 0;
 }

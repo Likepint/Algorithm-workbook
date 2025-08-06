@@ -15,3 +15,4 @@
 #include "Lesson02/L02_Example01.h"
 #include "Lesson02/L02_Example02.h"
 #include "Lesson02/L02_Example03.h"
+#include "Lesson02/L02_Example04.h"

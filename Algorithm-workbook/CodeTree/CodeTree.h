@@ -22,3 +22,8 @@
 #include "Lesson02/L02_Example08.h"
 #include "Lesson02/L02_Example09.h"
 #include "Lesson02/L02_Example10.h"
+#include "Lesson02/L02_Example11.h"
+#include "Lesson02/L02_Example12.h"
+#include "Lesson02/L02_Example13.h"
+#include "Lesson02/L02_Example14.h"
+#include "Lesson02/L02_Example15.h"

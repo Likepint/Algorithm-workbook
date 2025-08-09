@@ -28,3 +28,8 @@
 #include "Lesson02/L02_Example14.h"
 #include "Lesson02/L02_Example15.h"
 #include "Lesson02/L02_Example16.h"
+#include "Lesson02/L02_Example17.h"
+#include "Lesson02/L02_Example18.h"
+#include "Lesson02/L02_Example19.h"
+#include "Lesson02/L02_Example20.h"
+#include "Lesson02/L02_Example21.h"
